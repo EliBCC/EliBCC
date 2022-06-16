@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliBCC
 - 👀 I’m interested in sustainable technology
-- 🌱 I’m currently learning data science and machine learning for economics
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on open-source projects for sustainable development
 - 📫 Reach me at linkedin.com/in/elicarlin-coleman/
 
